@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'test-vercel-laravel.vercel.app'),
+    'url' => env('APP_URL', 'https://test-vercel-laravel-holivin21.vercel.app'),
 
     'asset_url' => env('ASSET_URL', null),
 
