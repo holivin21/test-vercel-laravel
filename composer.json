@@ -11,7 +11,7 @@
         "laravel/framework": "^8.65",
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5",
-        "symfony/translation": "^5.4"
+        "symfony/translation": "5.4.0"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
